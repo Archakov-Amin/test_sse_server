@@ -1,0 +1,7 @@
+httpx
+fastapi
+uvicorn
+starlette==0.48.0
+sse-starlette==2.1.3
+pytest
+pytest-asyncio
